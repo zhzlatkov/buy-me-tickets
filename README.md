@@ -1,4 +1,3 @@
-````markdown
 # Event Reservation Bot
 
 This script is designed to automate the ticket reservation process for events on Eventim.bg. The script will periodically check for the availability of the event and automatically reserve tickets when they become available.
@@ -10,7 +9,6 @@ This script is designed to automate the ticket reservation process for events on
     ```bash
     git clone <https://github.com/zhzlatkov/buy-me-tickets>
     ```
-````
 
 2. Navigate to the project directory:
 
